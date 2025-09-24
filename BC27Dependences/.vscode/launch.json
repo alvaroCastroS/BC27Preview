@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "BC27",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync",
+            "tenant": "f9efae29-6904-44bf-ac5f-59bd9fe437ed",
+            "environmentType": "Sandbox",
+            "environmentName": "BC27",
+            "startupObjectType": "Page"
+        }
+    ]
+}

@@ -2,18 +2,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "TREFILADOS SanboxBC27",
-            "request": "launch",
             "type": "al",
-            "environmentType": "Sandbox",
-            "environmentName": "SanboxBC27",
-            "tenant": "b1a5e501-7431-4080-8396-789e3faf48e3",
+            "request": "launch",
+            "name": "BC27",
             "breakOnError": true,
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
-            "schemaUpdateMode": "ForceSync"
+            "schemaUpdateMode": "ForceSync",
+            "tenant": "f9efae29-6904-44bf-ac5f-59bd9fe437ed",
+            "environmentType": "Sandbox",
+            "environmentName": "BC27",
+            "startupObjectType": "Page"
         }
-        pruebaesdfas
     ]
 }
