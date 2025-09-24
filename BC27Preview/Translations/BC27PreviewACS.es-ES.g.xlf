@@ -1,56 +1,57 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-US" target-language="en-US" original="BC27PreviewACS">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="BC27PreviewACS">
     <body>
       <group id="body">
         <trans-unit id="Table 1499154329 - Field 1296262074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>MyField</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table ATT Test - Field MyField - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1499154329 - Field 3945078064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>MyField2</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table ATT Test - Field MyField2 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1499154329 - Field 3307381447 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>MyField3</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table ATT Test - Field MyField3 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1499154329 - Field 3476290470 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>MyField4</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table ATT Test - Field MyField4 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Report 1819428497 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Process Report Template</source>
+          <target state="translated">Plantilla reports procesos</target>
           <note from="Developer" annotates="general" priority="2">ESP="Plantilla reports procesos"</note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ATT Template For Reports - Property Caption</note>
         </trans-unit>
         <trans-unit id="Report 1819428497 - NamedType 407960317" size-unit="char" translate="yes" xml:space="preserve">
           <source>Progreso    #2###############</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report ATT Template For Reports - NamedType BarLbl</note>
         </trans-unit>
         <trans-unit id="Report 1819428497 - NamedType 3950098385" size-unit="char" translate="yes" xml:space="preserve">
           <source>Registro    #1###############\</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report ATT Template For Reports - NamedType ProgressLbl</note>
         </trans-unit>
         <trans-unit id="Report 1819428497 - NamedType 1327832897" size-unit="char" translate="yes" xml:space="preserve">
           <source>Procesando...\</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report ATT Template For Reports - NamedType Text000Lbl</note>
         </trans-unit>
         <trans-unit id="Report 1819428497 - NamedType 668085633" size-unit="char" translate="yes" xml:space="preserve">
           <source>Finaliza a las #3################</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report ATT Template For Reports - NamedType TimeLbl</note>
         </trans-unit>
         <trans-unit id="Report 1459420798 - NamedType 3950098385" size-unit="char" translate="yes" xml:space="preserve">
           <source>Registro    #1###############\</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report ATT Upload Test Table - NamedType ProgressLbl</note>
         </trans-unit>
       </group>

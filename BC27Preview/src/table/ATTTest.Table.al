@@ -7,6 +7,7 @@ table 50000 "ATT Test"
         field(1; MyField; Integer)
         {
             DataClassification = ToBeClassified;
+            AutoIncrement = true;
         }
         field(2; MyField2; Integer)
         {
